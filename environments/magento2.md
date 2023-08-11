@@ -111,7 +111,7 @@ In addition to the below manual process, there is a `Github Template available f
             --db-user=magento \
             --db-password=magento \
             --search-engine=opensearch \
-            --opensearch-host=opensearch \
+            --opensearch-host=exampleproject-opensearch \
             --opensearch-port=9200 \
             --opensearch-index-prefix=magento2 \
             --opensearch-enable-auth=0 \
